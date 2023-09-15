@@ -52,7 +52,7 @@ Click on below button for Downloading latest version of Hackstore !
 <br><br>
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download APK")](https://play.google.com/store/apps/details?id=com.jivani.vehicleosint)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download APK")](https://bhai4you.blogspot.com/2023/09/hackstore-apk.html)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 <h2><img height="20" src="https://github.com/Bhai4You/bhai4you/blob/master/anubis/community.svg">&nbsp;&nbsp;Community</h2>
