@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/Bhai4You/vehicleosint" ><img width="200" src="https://github.com/Bhai4You/bhai4you/blob/master/hackstore/ic_launcher_foreground.png?raw=true" alt="HackStore"></a><br>
 <h1><p align="center">Hackstore<br></h1>
-  <p align="center">Version : 1.0.0</p>
+  <p align="center">Version : 1.0.1</p>
 </p>
 
 <p align="center">
