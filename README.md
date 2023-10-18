@@ -36,6 +36,7 @@
 - [x] DarkWeb Apps
 - [x] Android Editor/Modder Apps
 - [x] Linux / CMD Apps
+- [x] Termux Tutorials (one click install)
 - [x] and much more... 
 - [x] Give Support if you like my work ;)
 
@@ -70,5 +71,5 @@ We would &nbsp;<img width="15" src="https://github.com/Bhai4You/bhai4you/blob/ma
 
 <br>
 
-<p align="right"> Last Update: 15.09.2023 </p>
+<p align="right"> Last Update: 18.10.2023 </p>
 <p align="right"> Hackstore</p>
